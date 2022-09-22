@@ -46,7 +46,7 @@ Environment solved in 4939 episodes!	Average Score: 0.51
 ![tenis](images/learning_rate.png)
 
 Visual inspection of the agent behavior in the environment confirms that it acts as expected
-![tenis](images/te_nis_agent.gif)
+![tenis](images/tennis_agent.gif)
 
 ## Future work
 - Optimizing hyperparameters.
